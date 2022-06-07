@@ -1,0 +1,16 @@
+E:\netframework\SyntezatorIVONA\SpeechControl\bin\Debug\SpeechControl.dll
+E:\netframework\SyntezatorIVONA\SpeechControl\bin\Debug\SpeechControl.pdb
+E:\netframework\SyntezatorIVONA\SpeechControl\obj\Debug\SpeechControl.csprojAssemblyReference.cache
+E:\netframework\SyntezatorIVONA\SpeechControl\obj\Debug\SpeechControl.SpeechControl.resources
+E:\netframework\SyntezatorIVONA\SpeechControl\obj\Debug\SpeechControl.csproj.GenerateResource.cache
+E:\netframework\SyntezatorIVONA\SpeechControl\obj\Debug\SpeechControl.csproj.CoreCompileInputs.cache
+E:\netframework\SyntezatorIVONA\SpeechControl\obj\Debug\SpeechControl.dll
+E:\netframework\SyntezatorIVONA\SpeechControl\obj\Debug\SpeechControl.pdb
+E:\Giercownia\SpeechControl\bin\Debug\SpeechControl.dll
+E:\Giercownia\SpeechControl\bin\Debug\SpeechControl.pdb
+E:\Giercownia\SpeechControl\obj\Debug\SpeechControl.csprojAssemblyReference.cache
+E:\Giercownia\SpeechControl\obj\Debug\SpeechControl.SpeechControl.resources
+E:\Giercownia\SpeechControl\obj\Debug\SpeechControl.csproj.GenerateResource.cache
+E:\Giercownia\SpeechControl\obj\Debug\SpeechControl.csproj.CoreCompileInputs.cache
+E:\Giercownia\SpeechControl\obj\Debug\SpeechControl.dll
+E:\Giercownia\SpeechControl\obj\Debug\SpeechControl.pdb

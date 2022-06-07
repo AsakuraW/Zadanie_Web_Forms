@@ -1,0 +1,52 @@
+E:\Pliki szkolne\3 rok 1 semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.Form1.resources
+E:\Pliki szkolne\3 rok 1 semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.Properties.Resources.resources
+E:\Pliki szkolne\3 rok 1 semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.GenerateResource.cache
+E:\Pliki szkolne\3 rok 1 semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.CoreCompileInputs.cache
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.AssemblyReference.cache
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.Form1.resources
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.Properties.Resources.resources
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.GenerateResource.cache
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.CoreCompileInputs.cache
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\bin\Debug\Giercownia.exe.config
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\bin\Debug\Giercownia.exe
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\bin\Debug\Giercownia.pdb
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.exe
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.pdb
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.Giercowniaa.resources
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.Form2.resources
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\bin\Debug\SpeechControl.dll
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\bin\Debug\SpeechControl.pdb
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.Form3.resources
+E:\Plikiszkolne\3rok1semestr\projek_net\Projekt_DOTNET\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.CopyComplete
+I:\Giercownia\Giercownia\bin\Debug\Giercownia.exe.config
+I:\Giercownia\Giercownia\bin\Debug\Giercownia.exe
+I:\Giercownia\Giercownia\bin\Debug\Giercownia.pdb
+I:\Giercownia\Giercownia\bin\Debug\SpeechControl.dll
+I:\Giercownia\Giercownia\bin\Debug\SpeechControl.pdb
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.AssemblyReference.cache
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.Form1.resources
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.Form3.resources
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.Giercowniaa.resources
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.Form2.resources
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.Properties.Resources.resources
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.GenerateResource.cache
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.CoreCompileInputs.cache
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.CopyComplete
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.exe
+I:\Giercownia\Giercownia\obj\Debug\Giercownia.pdb
+E:\Giercownia\Giercownia\bin\Debug\Giercownia.exe.config
+E:\Giercownia\Giercownia\bin\Debug\Giercownia.exe
+E:\Giercownia\Giercownia\bin\Debug\Giercownia.pdb
+E:\Giercownia\Giercownia\bin\Debug\SpeechControl.dll
+E:\Giercownia\Giercownia\bin\Debug\SpeechControl.pdb
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.csprojAssemblyReference.cache
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.Form1.resources
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.Form3.resources
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.Giercowniaa.resources
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.Form2.resources
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.Properties.Resources.resources
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.GenerateResource.cache
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.CoreCompileInputs.cache
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.csproj.CopyComplete
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.exe
+E:\Giercownia\Giercownia\obj\Debug\Giercownia.pdb
